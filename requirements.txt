@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+redis
+
+
+debugpy ## REQUIRED FOR REMOTE DEBUGGING
